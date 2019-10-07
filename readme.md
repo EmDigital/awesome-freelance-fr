@@ -38,6 +38,7 @@
 + [Malt](https://www.malt.fr/) (commission 10%)
 + [Popcorn](https://popcorn-nantes.github.io/popcorns) (aucune commission) ([source](https://github.com/popcorn-nantes/popcorn-nantes))
 + [XXE](https://www.xxe.fr/) (aucune commission)
++ [Freelance-informatique](https://www.freelance-informatique.fr/)
 
 ## Facturation
 
